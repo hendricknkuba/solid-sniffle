@@ -1,0 +1,150 @@
+{
+  "weekDays": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+  ],
+  "timeSlots": [
+    "7:00 AM",
+    "8:00 AM",
+    "9:00 AM",
+    "10:00 AM",
+    "11:00 AM",
+    "12:00 PM",
+    "1:00 PM",
+    "2:00 PM",
+    "3:00 PM",
+    "4:00 PM",
+    "5:00 PM",
+    "6:00 PM",
+    "7:00 PM",
+    "8:00 PM"
+  ],
+  "activities": [
+    {
+      "day": "Monday",
+      "startTime": "7:00 AM",
+      "endTime": "8:00 PM",
+      "title": "Available to Work",
+      "type": "free-time",
+      "description": "Available to work"
+    },
+    {
+      "day": "Tuesday",
+      "startTime": "12:00 PM",
+      "endTime": "1:00 PM",
+      "title": "Full Stack Deployment",
+      "type": "busy",
+      "description": "In-person class session held at the college campus"
+    },
+    {
+      "day": "Tuesday",
+      "startTime": "3:00 PM",
+      "endTime": "4:00 PM",
+      "title": "German Culture & Language",
+      "type": "busy",
+      "description": "In-person class session held at the college campus"
+    },
+    {
+      "day": "Wednesday",
+      "startTime": "5:00 PM",
+      "endTime": "6:00 PM",
+      "title": "Web Development Trends",
+      "type": "busy",
+      "description": "In-person class session held at the college campus"
+    },
+    {
+      "day": "Wednesday",
+      "startTime": "7:00 PM",
+      "endTime": "8:55 PM",
+      "title": "Church Group Meeting",
+      "type": "meeting",
+      "description": "Church meeting"
+    },
+    {
+      "day": "Wednesday",
+      "startTime": "7:00 AM",
+      "endTime": "3:00 PM",
+      "title": "Available to Work",
+      "type": "free-time",
+      "description": "Available to work"
+    },
+    {
+      "day": "Thursday",
+      "startTime": "3:00 PM",
+      "endTime": "4:00 PM",
+      "title": "JavaScript 4",
+      "type": "busy",
+      "description": "In-person class session held at the college campus"
+    },
+    {
+      "day": "Thursday",
+      "startTime": "6:00 PM",
+      "endTime": "7:00 PM",
+      "title": "Small Business IT Strategies",
+      "type": "busy",
+      "description": "In-person class session held at the college campus"
+    },
+    {
+      "day": "Friday",
+      "startTime": "11:00 AM",
+      "endTime": "12:00 PM",
+      "title": "Mobile Development 2",
+      "type": "busy",
+      "description": "In-person class session held at the college campus"
+    },
+    {
+      "day": "Friday",
+      "startTime": "4:00 PM",
+      "endTime": "5:00 PM",
+      "title": "Application Project",
+      "type": "busy",
+      "description": "In-person class session held at the college campus"
+    },
+    {
+      "day": "Friday",
+      "startTime": "6:00 PM",
+      "endTime": "8:00 PM",
+      "title": "Available to Work",
+      "type": "free-time",
+      "description": "Available to work"
+    },
+    {
+      "day": "Saturday",
+      "startTime": "10:00 AM",
+      "endTime": "12:30 PM",
+      "title": "Church Group Meeting",
+      "type": "meeting",
+      "description": "Church meeting"
+    },
+    {
+      "day": "Saturday",
+      "startTime": "2:00 PM",
+      "endTime": "7:00 PM",
+      "title": "Available to Work",
+      "type": "free-time",
+      "description": "Available to work"
+    },
+    {
+      "day": "Sunday",
+      "startTime": "10:00 AM",
+      "endTime": "12:00 PM",
+      "title": "Church Activity",
+      "type": "meeting",
+      "description": "Church Activity"
+    },
+    {
+      "day": "Sunday",
+      "startTime": "1:00 PM",
+      "endTime": "5:00 PM",
+      "title": "Available to Work",
+      "type": "free-time",
+      "description": "Available to work"
+    }
+
+  ]
+}
