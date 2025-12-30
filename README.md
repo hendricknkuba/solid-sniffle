@@ -13,12 +13,15 @@ A professional weekly schedule manager with dynamic JSON data loading.
 - **Edit Directly**: Modify JSON data through in-app editor
 
 ## File Structure
+
+```
 availability-schedule/
-├── index.html # Main HTML file
-├── style.css # CSS styles
-├── script.js # JavaScript functionality
-├── schedule.json # Schedule data (editable)
-└── README.md # This file
+├── index.html          # Main HTML file
+├── style.css           # CSS styles
+├── script.js           # JavaScript functionality
+├── schedule.json       # Schedule data (editable)
+└── README.md           # This file
+```
 
 
 ## How to Use
